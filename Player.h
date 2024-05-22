@@ -21,5 +21,5 @@ struct Player{
     void pollEvent(SDL_Event event,SDL_Renderer* renderer, string &nameFilePlayer,bool &checkmusicBG);
 };
 
-#endif
+#endif // MAINPLAYER_H
 
