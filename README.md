@@ -2,7 +2,7 @@
 ## 1.Summary
 Feeling bored and stressed after playing games with low connection?
 Tired because your list of games seem to get lame?
-Don't worry , Unknown Obstacles is an ideal choice for something new and refreshing that give you a comfortable experience. Not only you could play the game without the wifi but also the game features may help you to train your eyes reflexes a bit. It's a car trying to avoid the barriers on the road to the finish line. Let's go through the instructions shall we?
+Don't worry , Unknown Obstacles is an ideal choice for something new and refreshing that give you a comfortable experience. Not only you could play the game without the wifi but also the game features may help you to train your eyes reflexes a bit. It's a car trying to avoid the barriers on the road to reach the highest score. Let's go through the instructions shall we?
 
 ## 2.Instructions
 ![howtoplay1](https://github.com/sinhtruong1012/Unknown-Obstacles/assets/161494846/7d24f831-4398-432e-ac53-1d456da052c4)
