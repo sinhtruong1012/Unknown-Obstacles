@@ -12,6 +12,8 @@ Don't worry , Unknown Obstacles is an ideal choice for something new and refresh
 + Add gun to the car to destroy the barriers when reached 10 coins.
 + New features and sounds.
 + Different model of cars.
++ New stages after winning each game
+  
 
 # Overall
 I hope teachers and everyone could have the best experience when playing Unknown Obstacles , I will try to add as many new features as possible in the future for a better gaming experience. Thank you and have a good day.
